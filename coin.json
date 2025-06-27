@@ -1,0 +1,20 @@
+{
+    "name": "Euro Coin",
+    "symbol": "EURC",
+    "description": "Token rappresentativo dell'Euro Coin su Solana.",
+    "image": "https://raw.githubusercontent.com/andre199372/eur-token/main/coin.png",
+    "decimals": 2,
+    "seller_fee_basis_points": 0,
+    "attributes": [],
+    "collection": null,
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/andre199372/eur-token/main/coin.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+  
