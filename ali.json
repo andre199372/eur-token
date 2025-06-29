@@ -1,0 +1,22 @@
+{
+  "name": "ALICE<3",
+  "symbol": "MWAH",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/andre199372/eur-token/f700a777109b6895ba205e831c728ae97b5057ea/20210829_144946.jpg",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/andre199372/eur-token/f700a777109b6895ba205e831c728ae97b5057ea/20210829_144946.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}
