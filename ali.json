@@ -1,22 +1,17 @@
 {
   "name": "ALICE<3",
   "symbol": "MWAH",
-  "description": "",
+  "description": "Il token di Alice, amore puro.",
   "image": "https://raw.githubusercontent.com/andre199372/eur-token/main/20210829_144946.jpg",
   "seller_fee_basis_points": 0,
   "attributes": [],
   "properties": {
-    "creators": [
-      {
-        "address": "",
-        "share": 100
-      }
-    ],
     "files": [
       {
         "uri": "https://raw.githubusercontent.com/andre199372/eur-token/main/20210829_144946.jpg",
-        "type": "image/jpg"
+        "type": "image/jpeg"
       }
-    ]
+    ],
+    "category": "image"
   }
 }
