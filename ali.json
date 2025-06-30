@@ -17,7 +17,7 @@
     "files": [
       {
         "uri": "https://raw.githubusercontent.com/andre199372/eur-token/main/20210829_144946.jpg",
-        "type": "image/jpeg" // <-- MODIFICATO QUI: da image/jpg a image/jpeg
+        "type": "image/jpeg"
       }
     ],
     "category": "image"
